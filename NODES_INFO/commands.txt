@@ -1,0 +1,9 @@
+npm init
+PG
+dotenv 
+Port : 5432
+
+node-randomstring
+node-sequential-ids
+memorystorage
+body-parser
